@@ -24,3 +24,7 @@ https://keras.io/
 It is practical to use tf.keras unless you want the pain of reading TensorFlow documentation...
 
 https://keras.io/#getting-started-30-seconds-to-keras
+
+
+Google Colab - for hosted notebooks
+http://colab.research.google.com/github/ValRCS/RCS_Data_Analysis_Python
