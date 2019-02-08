@@ -22,3 +22,5 @@ https://www.tensorflow.org/
 https://keras.io/
 
 It is practical to use tf.keras unless you want the pain of reading TensorFlow documentation...
+
+https://keras.io/#getting-started-30-seconds-to-keras
