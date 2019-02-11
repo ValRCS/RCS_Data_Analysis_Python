@@ -35,6 +35,8 @@ Works well with Office Subscription
 
 https://selecthub.com/business-intelligence/tableau-vs-qlikview-vs-microsoft-power-bi/
 
+https://interworks.com/blog/mgiegerich/2018/04/04/dashboard-design-comparison-tableau-desktop-vs-microsoft-power-bi/
+
 
 ## Learning Materials, Books
 
