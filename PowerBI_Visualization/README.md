@@ -42,6 +42,8 @@ https://blogs.msdn.microsoft.com/microsoft_press/2016/06/16/free-ebook-introduci
 
 https://docs.microsoft.com/en-us/power-bi/desktop-getting-started
 
+https://docs.microsoft.com/en-us/power-bi/guided-learning/index
+
 Free Online Book(so careful) - http://radacad.com/online-book-power-bi-from-rookie-to-rockstar
 
 [Power Pivot and Power BI](https://www.amazon.com/Power-Pivot-BI-Excel-2010-2016/dp/1615470395) - good reviews
