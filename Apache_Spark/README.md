@@ -9,6 +9,9 @@ https://www.oreilly.com/library/view/learning-spark/9781449359034/
 
 https://spark.apache.org/examples.html
 
+Github repo by Spark creators for their Definitive Guide book:
+https://github.com/databricks/Spark-The-Definitive-Guide
+
 ## Installation locally
 
 * https://www.dezyre.com/apache-spark-tutorial/spark-tutorial
