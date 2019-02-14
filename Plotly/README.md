@@ -7,3 +7,6 @@ Plotly at its core is a data visualization toolbox. Under every plotly graph is 
 
 ### Offline plot inside Jupyter
 * https://plot.ly/python/offline/
+
+## Using Plotly
+https://stackabuse.com/using-plotly-library-for-interactive-data-visualization-in-python/
