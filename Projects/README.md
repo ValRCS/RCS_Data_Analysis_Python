@@ -16,6 +16,11 @@
   * Optimization
 * Visualizing Data (we will look a building a Dashboard at the end)
 
+##  Official collection of Jupyter notebooks
+
+https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+
+
 ## Some Project ideas:
 
 24 solid projects:
