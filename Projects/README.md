@@ -20,6 +20,10 @@
 
 https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 
+## How to organize your notebooks and work
+
+https://pbpython.com/notebook-process.html
+
 
 ## Some Project ideas:
 
